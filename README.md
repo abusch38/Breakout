@@ -1,2 +1,2 @@
 # Breakout
-Breakout game using classes and tkinter
+Breakout game using classes and tkinter in Python
